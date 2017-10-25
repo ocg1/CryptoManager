@@ -15,6 +15,9 @@
 1.GET CONTENT JSON TỪ BLOCKCHAIN.INFO/ADDRESS/ ĐỂ GET TRANSACTIONS INFO <br />
   Hỗ trợ get 50 transfers /1 lần với từng offset - > dễ dùng ajax để insert vào DB hơn <br />
   https://blockchain.info/address/" . $address . "?format=json&offset=0" <br />
+  
+ https://blockchain.info/q
+  
 2.GET CONTENT JSON TỪ https://api.coinbase.com/v2/exchange-rates?currency=BTC  ĐỂ LẤY TỈ LỆ ĐỔI --- FREE REQUEST <br />
 CÓ THỂ SỬ DỤNG https://developers.coinbase.com/api/v2#prices ĐỂ LẤY TỈ LỆ ĐỔI CHI TIẾT -- FREE REQUEST <br />
 3.PIECHART % BÉ : https://github.com/rendro/easy-pie-chart <br />
